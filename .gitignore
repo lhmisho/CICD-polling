@@ -8,7 +8,7 @@ __pycache__/
 # C extensions
 *.so
 db.sqlite3
-
+static
 # Distribution / packaging
 bin/
 build/
